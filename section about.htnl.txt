@@ -1,0 +1,8 @@
+<section id="about">
+    <h2>About Mercedes-Benz</h2>
+    <p>
+        Mercedes-Benz is a German luxury automobile manufacturer known for
+        innovation, comfort, and advanced safety features. Founded in 1926,
+        the brand represents premium quality and performance worldwide.
+    </p>
+</section>
